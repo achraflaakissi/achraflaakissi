@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm LAAKISSI Achraf</h1>
 <h3 align="center">Senior Fullstack Software Engineer</h3>
 
+
+<h3 align="center">I'm a software engineer specialized in backend and frontend development for complex scalable web apps. I have been developing professionally for 5 years.</h3>
+              <h3 class="center"> In the last years, i specialize in javascript , I dig deeper into their concept, also, I am an expert at aspects of monorepo structure (using Nx) and a microservices structure (architecture, separation, communication between them).
+                  In addition, I am very interested in data visualization, I love to make complex data understated by charts.
+                  I am currently now working for Skytrend / Augurisk / Sitecreator as a senior fullstack software engineer.
+                  You can check my medium account i start writing some blogs about software development.
+              </h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achraflaakissi&label=Profile%20views&color=0e75b6&style=flat" alt="achraflaakissi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achraflaakissi" alt="achraflaakissi" /></a> </p>
