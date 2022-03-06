@@ -3,7 +3,7 @@
 <h4 align="center"> “Make it work, make it right, make it fast.” – Kent Beck </h4>
 
 
-<h5 align="center">I'm a software engineer specialized in backend and frontend development for complex scalable web apps. I have been developing professionally for 5 years.</h5>
+<h5 align="center">I'm a software engineer specialized in backend and frontend development for complex scalable web apps. I have been developing professionally for 7 years.</h5>
               <h5 align="center"> In the last years, i specialize in javascript , I dig deeper into their concept, also, I am an expert at aspects of monorepo structure (using Nx) and a microservices structure (architecture, separation, communication between them).
                   In addition, I am very interested in data visualization, I love to make complex data understated by charts.
                   I am currently now working for Skytrend / Augurisk / Sitecreator as a senior fullstack software engineer.
